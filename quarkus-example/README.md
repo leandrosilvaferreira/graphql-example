@@ -1,4 +1,4 @@
-# quarkus-example project
+# Quarkus MicroProfile GraphQL Example
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

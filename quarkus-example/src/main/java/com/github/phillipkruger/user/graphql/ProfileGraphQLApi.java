@@ -92,6 +92,14 @@ public class ProfileGraphQLApi {
         return eventDB.getEvents(score.getId());
     }
     
+//    public List<Double> getRandomNumbers(@Source Score score){
+//        List<Double> randomNumbers = new ArrayList<>();
+//        randomNumbers.add(Math.random());
+//        randomNumbers.add(Math.random());
+//        randomNumbers.add(Math.random());
+//        return randomNumbers;
+//    }
+    
     // Default values
     @Query
     public List<Person> getPersonsWithSurname(
